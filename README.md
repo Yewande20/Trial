@@ -16,18 +16,18 @@
     </div> 
     
     <ul>
-     <ol>
-             <li>Tea</li>
-             <li>Milk</li>
-             <li>Coke</li>
-     </ol>
+        <ol>
+         <li>Tea</li>
+         <li>Milk</li>
+         <li>Coke</li>
+        </ol>
     </ul>
      
      
      <ul>
-              <li>Tea</li>
-              <li>Milk</li>
-              <li>Coke</li>
+        <li>Tea</li>
+        <li>Milk</li>
+        <li>Coke</li>
      </ul>
  
  
