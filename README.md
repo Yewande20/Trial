@@ -8,7 +8,6 @@
 </head>
 <body>
     <img src="firefox-logo.webp" height=250 width=250>
-    <!--Div&Span&P-->
     <div class="content">
         <h1> <br><span>Mission &<br> </span><span>Vision Statement</span></h1>
         <p class="par">EnyMosFV is dedicated to providing superior financial solutions.
