@@ -7,27 +7,27 @@
     <title>Assignment</title>
 </head>
 <body>
-    <img src="Images/barber shop" class="logo">
+    <img src="[Images/barber sho](https://blog.mozilla.org/opendesign/files/2018/07/firefox-logo.png)p" class="logo">
     <!--Div&Span&P-->
     <div class="content">
         <h1> <br><span>Mission &<br> </span><span>Vision Statement</span></h1>
         <p class="par">EnyMosFV is dedicated to providing superior financial solutions.
                       <br> by helping individual to maximize wealth and <br>realization of dreams.</p>   
     </div> 
+    
     <ul>
-        <ol>
+     <ol>
              <li>Tea</li>
              <li>Milk</li>
              <li>Coke</li>
-        </ol>
-     </ul>
+     </ol>
+    </ul>
+     
      
      <ul>
-        <ul>
               <li>Tea</li>
               <li>Milk</li>
               <li>Coke</li>
-        </ul>
      </ul>
  
  
