@@ -7,7 +7,7 @@
     <title>Assignment</title>
 </head>
 <body>
-    <img src="[Images/barber sho](https://blog.mozilla.org/opendesign/files/2018/07/firefox-logo.png)p" class="logo">
+    <img src="firefox-logo.webp" height=250 width=250>
     <!--Div&Span&P-->
     <div class="content">
         <h1> <br><span>Mission &<br> </span><span>Vision Statement</span></h1>
@@ -34,8 +34,3 @@
  <dl>
     <dt>Tea</dt>
     <dd>Hot Chocolate Coffee</dd>
-    
- </dl>
-
-</body>
-</html>
